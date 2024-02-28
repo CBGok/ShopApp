@@ -1,0 +1,14 @@
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\bin\Debug\net8.0\BilgeShop.Data.deps.json
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\bin\Debug\net8.0\BilgeShop.Data.runtimeconfig.json
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\bin\Debug\net8.0\BilgeShop.Data.dll
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\bin\Debug\net8.0\BilgeShop.Data.pdb
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\BilgeShop.Data.csproj.AssemblyReference.cache
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\BilgeShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\BilgeShop.Data.AssemblyInfoInputs.cache
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\BilgeShop.Data.AssemblyInfo.cs
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\BilgeShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\BilgeShop.Data.dll
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\refint\BilgeShop.Data.dll
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\BilgeShop.Data.pdb
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\BilgeShop.Data.genruntimeconfig.cache
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Data\obj\Debug\net8.0\ref\BilgeShop.Data.dll

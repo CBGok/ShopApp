@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cemre\\OneDrive\\Masaüstü\\BilgeShop Baştan\\29.01.2024\\BilgeShop\\BilgeShop.WebUI\\wwwroot\\css\\Card.css",
+      "PackagePath": "staticwebassets\\css\\Card.css"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\OneDrive\\Masaüstü\\BilgeShop Baştan\\29.01.2024\\BilgeShop\\BilgeShop.WebUI\\wwwroot\\images\\errors\\404hata.png",
+      "PackagePath": "staticwebassets\\images\\errors\\404hata.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\OneDrive\\Masaüstü\\BilgeShop Baştan\\29.01.2024\\BilgeShop\\BilgeShop.WebUI\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\OneDrive\\Masaüstü\\BilgeShop Baştan\\29.01.2024\\BilgeShop\\BilgeShop.WebUI\\wwwroot\\images\\no-image.jpg",
+      "PackagePath": "staticwebassets\\images\\no-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\OneDrive\\Masaüstü\\BilgeShop Baştan\\29.01.2024\\BilgeShop\\BilgeShop.WebUI\\wwwroot\\images\\products\\2023-12-10 (1)-334724df-a6f9-4582-a1ee-f67d94ca9e11.png",
+      "PackagePath": "staticwebassets\\images\\products\\2023-12-10 (1)-334724df-a6f9-4582-a1ee-f67d94ca9e11.png"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\OneDrive\\Masaüstü\\BilgeShop Baştan\\29.01.2024\\BilgeShop\\BilgeShop.WebUI\\wwwroot\\images\\products\\246b872ad9b036c3ee31ec2e1267d308089708e5-4c8c79fc-9c77-441e-b91e-ad0f20ed7783.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\246b872ad9b036c3ee31ec2e1267d308089708e5-4c8c79fc-9c77-441e-b91e-ad0f20ed7783.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cemre\\OneDrive\\Masaüstü\\BilgeShop Baştan\\29.01.2024\\BilgeShop\\BilgeShop.WebUI\\wwwroot\\images\\products\\cicek-5bc875e2-314c-494f-a095-42336937675a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cicek-5bc875e2-314c-494f-a095-42336937675a.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BilgeShop.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BilgeShop.WebUI.props",
+      "PackagePath": "build\\BilgeShop.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BilgeShop.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\BilgeShop.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BilgeShop.WebUI.props",
+      "PackagePath": "buildTransitive\\BilgeShop.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

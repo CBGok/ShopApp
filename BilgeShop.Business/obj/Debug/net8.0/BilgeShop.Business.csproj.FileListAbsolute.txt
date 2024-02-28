@@ -1,0 +1,15 @@
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\bin\Debug\net8.0\BilgeShop.Business.deps.json
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\bin\Debug\net8.0\BilgeShop.Business.dll
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\bin\Debug\net8.0\BilgeShop.Business.pdb
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\bin\Debug\net8.0\BilgeShop.Data.dll
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\bin\Debug\net8.0\BilgeShop.Data.pdb
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\BilgeShop.Business.csproj.AssemblyReference.cache
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\BilgeShop.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\BilgeShop.Business.AssemblyInfoInputs.cache
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\BilgeShop.Business.AssemblyInfo.cs
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\BilgeShop.Business.csproj.CoreCompileInputs.cache
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\BilgeShop.Business.dll
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\refint\BilgeShop.Business.dll
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\BilgeShop.Business.pdb
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\ref\BilgeShop.Business.dll
+C:\Users\cemre\OneDrive\Masaüstü\BilgeShop Baştan\29.01.2024\BilgeShop\BilgeShop.Business\obj\Debug\net8.0\BilgeSho.CA2ADF4D.Up2Date
